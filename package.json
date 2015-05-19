@@ -1,0 +1,14 @@
+{
+  "name": "Balls",
+  "author" : "twobomb",
+  "version": "0.0.1",
+  "main" : "index.js",
+  "description": "Balls online",
+  "dependencies" : {
+    "express" : "4.11.2",
+    "socket.io" : "1.3.4"
+  },
+  "engines" : { 
+	"node" : "0.12.0" 
+	}
+}
